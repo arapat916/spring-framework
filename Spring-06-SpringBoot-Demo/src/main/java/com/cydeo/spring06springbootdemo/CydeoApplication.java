@@ -1,4 +1,4 @@
-package com.cydeo;
+package com.cydeo.spring06springbootdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
